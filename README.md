@@ -1,6 +1,7 @@
 # dogrulama
 qr-code kullanarak web sitesine giriş
-![Giriş ekranı](https://ibb.co/gDrSYLX)
+
+[Giriş ekranı](https://ibb.co/gDrSYLX)
 ![Üretilen qr code](https://ibb.co/KXkJ56f)
 ![okutulan qr code değerinin girilmesi](https://ibb.co/qpvnXwX)
 
