@@ -1,9 +1,11 @@
 # dogrulama
 qr-code kullanarak web sitesine giriş
 
-[Giriş ekranı]https://ibb.co/nzyPLmb
-[Üretilen qr code]https://ibb.co/ZTrdXgW
-[okutulan qr code değerinin girilmesi]https://ibb.co/QnZYvqv
+[Giriş ekranı](https://ibb.co/nzyPLmb)
+
+[Üretilen qr code](https://ibb.co/ZTrdXgW)
+
+[okutulan qr code değerinin girilmesi](https://ibb.co/QnZYvqv)
 
 
 Composer Kurulumu
